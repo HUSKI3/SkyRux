@@ -6,11 +6,11 @@ Using your phone as external proccessing power for your chomebook/laptop
 Enable USB debugging
 Open Turmux and paste in command:
 
-Pkg install wget
+pkg install wget
 
-Wget https://raw.githubusercontent.com/HUSKI3/SkyRux/master/install-ubuntu.sh
+wget https://raw.githubusercontent.com/HUSKI3/SkyRux/master/install-ubuntu.sh
 
-Wget https://raw.githubusercontent.com/HUSKI3/SkyRux/master/install-ubuntu-vnc.sh
+wget https://raw.githubusercontent.com/HUSKI3/SkyRux/master/install-ubuntu-vnc.sh
 
 # On chromebook:
 curl -s https://raw.githubusercontent.com/nathanchance/chromeos-adb-fastboot/master/install.sh | bash
