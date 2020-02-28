@@ -14,6 +14,7 @@ wget https://raw.githubusercontent.com/HUSKI3/SkyRux/master/install-ubuntu-vnc.s
 
 # On chromebook:
 curl -s https://raw.githubusercontent.com/nathanchance/chromeos-adb-fastboot/master/install.sh | bash
+
 source ~/.bashrc
 
 adb devices
