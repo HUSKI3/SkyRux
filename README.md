@@ -1,5 +1,5 @@
 # SkyRux
-Using your phone as an external machine for your chomebook/laptop
+Using your phone as external proccessing power for your chomebook/laptop
 
 
 # On phone:
