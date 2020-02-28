@@ -1,9 +1,6 @@
-pkg update && pkg upgrade
-pkg install git -y
-pkg install wget -y
-pkg install proot -y
-git clone https://github.com/MFDGaming/ubuntu-in-termux.git
-cd ubuntu-in-termux
-chmod +x ubuntu.sh
-./ubuntu.sh
-
+apt-get install wget
+apt-get install proot
+apt-get install git
+wget https://github.com/Neo-Oli/termux-ubuntu
+bash ubuntu.sh
+./start.ubuntu.sh
